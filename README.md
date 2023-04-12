@@ -1,7 +1,7 @@
 <h1 align="center">PHP BACKEND DEVELOPER</h1>
 <h3 align="center">LARAVEL, VUE</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Certificates:</h3>
 <p align="left">
 <a href="https://www.hackerrank.com/dondilshod096" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dondilshod096" height="30" width="40" /></a>
 </p>
