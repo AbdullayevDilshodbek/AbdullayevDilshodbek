@@ -1,4 +1,4 @@
-<h1 align="center">PHP BACKEND DEVELOPER</h1>
+<h1 align="center">BACKEND DEVELOPER</h1>
 <h3 align="center">LARAVEL, VUE</h3>
 
 <h3 align="left">Certificates:</h3>
